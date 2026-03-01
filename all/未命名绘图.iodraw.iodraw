@@ -32,7 +32,7 @@
         <mxCell id="sjlKfZCiP_XEEO8t6Bzp-6" value="linux" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sjlKfZCiP_XEEO8t6Bzp-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;编译javac&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjlKfZCiP_XEEO8t6Bzp-12" target="sjlKfZCiP_XEEO8t6Bzp-13">
+        <mxCell id="sjlKfZCiP_XEEO8t6Bzp-17" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;编译javac&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjlKfZCiP_XEEO8t6Bzp-12" target="sjlKfZCiP_XEEO8t6Bzp-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sjlKfZCiP_XEEO8t6Bzp-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;运行&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjlKfZCiP_XEEO8t6Bzp-13" target="sjlKfZCiP_XEEO8t6Bzp-22">
-          <mxGeometry x="-0.6552" relative="1" as="geometry">
+          <mxGeometry x="-0.6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
