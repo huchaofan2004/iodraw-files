@@ -13,8 +13,10 @@
         <mxCell id="sjlKfZCiP_XEEO8t6Bzp-2" value="text.java" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sjlKfZCiP_XEEO8t6Bzp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="sjlKfZCiP_XEEO8t6Bzp-3" target="sjlKfZCiP_XEEO8t6Bzp-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="sjlKfZCiP_XEEO8t6Bzp-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;运行&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="sjlKfZCiP_XEEO8t6Bzp-3" target="sjlKfZCiP_XEEO8t6Bzp-5">
+          <mxGeometry x="-0.0435" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sjlKfZCiP_XEEO8t6Bzp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="sjlKfZCiP_XEEO8t6Bzp-3" target="sjlKfZCiP_XEEO8t6Bzp-6">
           <mxGeometry relative="1" as="geometry" />
