@@ -10,6 +10,9 @@
         <mxCell id="sjlKfZCiP_XEEO8t6Bzp-2" value="text.java" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="250" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sjlKfZCiP_XEEO8t6Bzp-3" value="text.class" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
