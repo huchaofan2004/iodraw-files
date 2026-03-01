@@ -33,10 +33,16 @@
           <mxGeometry x="530" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sjlKfZCiP_XEEO8t6Bzp-12" value="text.java" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="30" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sjlKfZCiP_XEEO8t6Bzp-13" value="text.class" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="240" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjlKfZCiP_XEEO8t6Bzp-14" value="windows" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjlKfZCiP_XEEO8t6Bzp-15" value="linux" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
