@@ -115,7 +115,7 @@
         <mxCell id="imeQVQOAIPg0ohGdHLKR-7" value="text100文件夹" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="420" y="240" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="imeQVQOAIPg0ohGdHLKR-14" value="&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;相对路径：从当前目录开始定位，形成的一个路径&lt;br/&gt;绝对路径：从顶级目录开始定位，形成的一个路径&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="imeQVQOAIPg0ohGdHLKR-14" value="&lt;div style=&quot;line-height: 21px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;相对路径：从当前目录开始定位，形成的一个路径&lt;br/&gt;绝对路径：从顶级目录开始定位，形成的一个路径&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="310" y="390" width="380" height="60" as="geometry" />
         </mxCell>
       </root>
