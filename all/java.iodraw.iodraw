@@ -115,6 +115,9 @@
         <mxCell id="imeQVQOAIPg0ohGdHLKR-7" value="text100文件夹" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="420" y="240" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="imeQVQOAIPg0ohGdHLKR-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
