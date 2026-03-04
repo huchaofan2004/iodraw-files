@@ -75,10 +75,13 @@
           <mxGeometry x="170" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="imeQVQOAIPg0ohGdHLKR-2" value="abc文件夹" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="imeQVQOAIPg0ohGdHLKR-3" value="text100文件夹" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="560" y="300" width="150" height="60" as="geometry" />
+          <mxGeometry x="40" y="410" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="imeQVQOAIPg0ohGdHLKR-4" value="text100文件夹" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
