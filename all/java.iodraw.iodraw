@@ -145,7 +145,7 @@
         <mxCell id="I2RygFXYDPilRWKIOJWI-7" value="10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="580" y="860" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="I2RygFXYDPilRWKIOJWI-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I2RygFXYDPilRWKIOJWI-9" value="这个a变量在底层会体现成一个地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
