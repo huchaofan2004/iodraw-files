@@ -175,10 +175,10 @@
             <mxPoint x="440" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I2RygFXYDPilRWKIOJWI-19" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="I2RygFXYDPilRWKIOJWI-2" target="I2RygFXYDPilRWKIOJWI-15">
+        <mxCell id="I2RygFXYDPilRWKIOJWI-19" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="1080" as="sourcePoint" />
-            <mxPoint x="500" y="890" as="targetPoint" />
+            <mxPoint x="10" y="905.0907252920065" as="sourcePoint" />
+            <mxPoint x="180" y="914.9133020507031" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
