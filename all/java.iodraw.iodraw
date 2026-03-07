@@ -133,6 +133,9 @@
         <mxCell id="I2RygFXYDPilRWKIOJWI-3" value="计算机 ---&amp;gt; 人" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="780" width="300" height="240" as="geometry" />
         </mxCell>
+        <mxCell id="I2RygFXYDPilRWKIOJWI-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="873.97" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
