@@ -201,6 +201,9 @@
         <mxCell id="4ed_aEkR6qP3EZ2zEENJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ed_aEkR6qP3EZ2zEENJ-4" target="4ed_aEkR6qP3EZ2zEENJ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4ed_aEkR6qP3EZ2zEENJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ed_aEkR6qP3EZ2zEENJ-4" target="4ed_aEkR6qP3EZ2zEENJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4ed_aEkR6qP3EZ2zEENJ-4" value="基本数据类型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;glass=0;fontStyle=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="260" y="160" width="180" height="60" as="geometry" />
         </mxCell>
@@ -211,7 +214,7 @@
           <mxGeometry x="600" y="50" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ed_aEkR6qP3EZ2zEENJ-7" value="字符型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;glass=0;fontStyle=0;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="600" y="150" width="180" height="60" as="geometry" />
+          <mxGeometry x="600" y="160" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ed_aEkR6qP3EZ2zEENJ-8" value="布尔型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;glass=0;fontStyle=0;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="600" y="250" width="180" height="60" as="geometry" />
