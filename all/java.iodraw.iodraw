@@ -204,6 +204,9 @@
         <mxCell id="4ed_aEkR6qP3EZ2zEENJ-6" value="数值型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;glass=0;fontStyle=4;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="460" y="20" width="180" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4ed_aEkR6qP3EZ2zEENJ-7" value="数值型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;glass=0;fontStyle=4;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="180" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
