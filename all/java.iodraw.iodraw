@@ -131,7 +131,7 @@
           <mxGeometry x="-98.51" y="812.06" width="428.51" height="153.97" as="geometry" />
         </mxCell>
         <mxCell id="I2RygFXYDPilRWKIOJWI-3" value="计算机 ---&amp;gt; 人" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="475" y="768.02" width="300" height="240" as="geometry" />
+          <mxGeometry x="470" y="768.02" width="305" height="311.98" as="geometry" />
         </mxCell>
         <mxCell id="I2RygFXYDPilRWKIOJWI-5" value="内存 ---&amp;gt; 大脑&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; a&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="490" y="820" width="270" height="146.03" as="geometry" />
