@@ -184,8 +184,8 @@
         <mxCell id="6KdUP4CKW3CVfDAoVT9e-2" value="内存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="240" y="1340" width="500" height="251.98" as="geometry" />
         </mxCell>
-        <mxCell id="6KdUP4CKW3CVfDAoVT9e-3" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1401.98" width="70" height="20" as="geometry" />
+        <mxCell id="6KdUP4CKW3CVfDAoVT9e-3" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1401.98" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6KdUP4CKW3CVfDAoVT9e-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="6KdUP4CKW3CVfDAoVT9e-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
