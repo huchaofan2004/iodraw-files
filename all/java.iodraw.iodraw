@@ -263,7 +263,7 @@
         <mxCell id="6KdUP4CKW3CVfDAoVT9e-28" value="一个bit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="585" y="1451.98" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jTlZgVN0LDal0dZbif1z-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+        <mxCell id="jTlZgVN0LDal0dZbif1z-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="425" y="1510" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jTlZgVN0LDal0dZbif1z-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="jTlZgVN0LDal0dZbif1z-2">
@@ -289,7 +289,7 @@
             <mxRectangle width="12" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jTlZgVN0LDal0dZbif1z-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="jTlZgVN0LDal0dZbif1z-3">
+        <mxCell id="jTlZgVN0LDal0dZbif1z-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="jTlZgVN0LDal0dZbif1z-3">
           <mxGeometry x="48" width="11" height="20" as="geometry">
             <mxRectangle width="11" height="20" as="alternateBounds" />
           </mxGeometry>
