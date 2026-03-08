@@ -358,7 +358,7 @@
         <mxCell id="jTlZgVN0LDal0dZbif1z-22" value="两个字节" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="1485" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jTlZgVN0LDal0dZbif1z-23" value="一个bit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="jTlZgVN0LDal0dZbif1z-23" value="每个字节里面都有8个bit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="1540" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
