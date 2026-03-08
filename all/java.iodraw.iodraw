@@ -182,7 +182,7 @@
           <mxGeometry x="-98.51" y="1040" width="418.51" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6KdUP4CKW3CVfDAoVT9e-2" value="内存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1340" width="500" height="251.98" as="geometry" />
+          <mxGeometry x="210" y="1340" width="500" height="251.98" as="geometry" />
         </mxCell>
         <mxCell id="6KdUP4CKW3CVfDAoVT9e-5" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="6KdUP4CKW3CVfDAoVT9e-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -255,6 +255,12 @@
         <mxCell id="6KdUP4CKW3CVfDAoVT9e-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="6KdUP4CKW3CVfDAoVT9e-16">
           <mxGeometry x="170" width="25" height="29" as="geometry">
             <mxRectangle width="25" height="29" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6KdUP4CKW3CVfDAoVT9e-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="6KdUP4CKW3CVfDAoVT9e-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="1490" as="sourcePoint" />
+            <mxPoint x="380" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
