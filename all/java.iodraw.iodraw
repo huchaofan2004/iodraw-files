@@ -182,7 +182,7 @@
           <mxGeometry x="-98.51" y="1040" width="418.51" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6KdUP4CKW3CVfDAoVT9e-2" value="内存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1351.98" width="270" height="240" as="geometry" />
+          <mxGeometry x="240" y="1340" width="500" height="251.98" as="geometry" />
         </mxCell>
         <mxCell id="6KdUP4CKW3CVfDAoVT9e-3" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="420" y="1401.98" width="70" height="20" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry x="-60" y="1396.98" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6KdUP4CKW3CVfDAoVT9e-14" value="这是一个字节的空间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="437.5" y="1376.98" width="115" height="20" as="geometry" />
+          <mxGeometry x="405" y="1381.98" width="115" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
