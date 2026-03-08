@@ -546,6 +546,12 @@
         <mxCell id="erUAT0D-rHWtrKUxxTom-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erUAT0D-rHWtrKUxxTom-3" target="erUAT0D-rHWtrKUxxTom-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="erUAT0D-rHWtrKUxxTom-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="erUAT0D-rHWtrKUxxTom-3" target="erUAT0D-rHWtrKUxxTom-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="erUAT0D-rHWtrKUxxTom-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="erUAT0D-rHWtrKUxxTom-3" target="erUAT0D-rHWtrKUxxTom-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="erUAT0D-rHWtrKUxxTom-3" value="包1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
           <mxGeometry x="430" y="1600" width="90" height="60" as="geometry" />
         </mxCell>
@@ -561,7 +567,7 @@
         <mxCell id="erUAT0D-rHWtrKUxxTom-13" value="接口1、接口2..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
           <mxGeometry x="600" y="1680" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="erUAT0D-rHWtrKUxxTom-14" value="接口1、接口2..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+        <mxCell id="erUAT0D-rHWtrKUxxTom-14" value="类1、类2..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
           <mxGeometry x="600" y="1600" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
