@@ -570,6 +570,9 @@
         <mxCell id="erUAT0D-rHWtrKUxxTom-14" value="类1、类2..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
           <mxGeometry x="600" y="1600" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="erUAT0D-rHWtrKUxxTom-18" value="接口1、接口2..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1530" width="150" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
