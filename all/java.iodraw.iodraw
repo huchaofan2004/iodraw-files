@@ -1357,7 +1357,7 @@
         <mxCell id="kZyRBMNX_0aLdauRKxvs-193" value="&lt;font style=&quot;font-size: 58px;&quot; face=&quot;Comic Sans MS&quot;&gt;1&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="3850" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kZyRBMNX_0aLdauRKxvs-198" value="&lt;font style=&quot;font-size: 58px;&quot; face=&quot;Comic Sans MS&quot;&gt;34对应的二进制是0b100010&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-198" value="&lt;font style=&quot;font-size: 38px;&quot; face=&quot;Comic Sans MS&quot;&gt;34对应的二进制是0b100010&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="3930" width="770" height="60" as="geometry" />
         </mxCell>
       </root>
