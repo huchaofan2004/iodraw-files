@@ -1249,7 +1249,7 @@
             <mxRectangle width="92" height="44" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kZyRBMNX_0aLdauRKxvs-155" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-155" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;34&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="3500" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
