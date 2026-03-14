@@ -1315,7 +1315,7 @@
             <mxPoint x="260" y="3660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kZyRBMNX_0aLdauRKxvs-170" value="&lt;font style=&quot;font-size: 58px;&quot; face=&quot;Comic Sans MS&quot;&gt;1&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-170" value="&lt;font style=&quot;font-size: 58px;&quot; face=&quot;Comic Sans MS&quot;&gt;0&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="3597" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
