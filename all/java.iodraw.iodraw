@@ -1500,7 +1500,7 @@
         <mxCell id="kZyRBMNX_0aLdauRKxvs-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="5570" as="sourcePoint" />
-            <mxPoint x="260" y="5590" as="targetPoint" />
+            <mxPoint x="390" y="5571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
