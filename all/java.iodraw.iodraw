@@ -1703,9 +1703,12 @@
         </mxCell>
         <mxCell id="kZyRBMNX_0aLdauRKxvs-341" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="6370" as="sourcePoint" />
-            <mxPoint x="490" y="6430" as="targetPoint" />
+            <mxPoint x="690" y="6530" as="sourcePoint" />
+            <mxPoint x="420" y="6590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-342" value="&lt;font style=&quot;font-size: 58px;&quot; face=&quot;Comic Sans MS&quot;&gt;34&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="6370" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
