@@ -1708,7 +1708,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kZyRBMNX_0aLdauRKxvs-344" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;有&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="460" y="6390" width="60" height="30" as="geometry" />
+          <mxGeometry x="200" y="6500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-345" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;有&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="210" y="6510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
