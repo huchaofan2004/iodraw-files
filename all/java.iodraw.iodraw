@@ -1586,8 +1586,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kZyRBMNX_0aLdauRKxvs-302" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;条件表达式1&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-302" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;等于常量1&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="6160" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-303" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;等于常量1&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="6170" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
