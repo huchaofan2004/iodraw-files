@@ -1707,7 +1707,7 @@
             <mxPoint x="420" y="6590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kZyRBMNX_0aLdauRKxvs-342" value="&lt;font style=&quot;font-size: 28px;&quot; face=&quot;Comic Sans MS&quot;&gt;有&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-342" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 28px;&quot;&gt;有&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="6500" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
