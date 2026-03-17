@@ -1882,6 +1882,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-397" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZyRBMNX_0aLdauRKxvs-390">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="7800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kZyRBMNX_0aLdauRKxvs-390" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;循环条件判断&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="212.5" y="7910" width="205" height="70" as="geometry" />
         </mxCell>
@@ -1889,7 +1894,7 @@
           <mxGeometry x="240" y="8060" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kZyRBMNX_0aLdauRKxvs-395" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;true&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="7160" width="90" height="40" as="geometry" />
+          <mxGeometry x="290" y="7990" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
