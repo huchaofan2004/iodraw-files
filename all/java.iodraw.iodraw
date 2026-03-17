@@ -1823,6 +1823,12 @@
         <mxCell id="kZyRBMNX_0aLdauRKxvs-378" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;true&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="7150" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-380" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="7130" as="sourcePoint" />
+            <mxPoint x="164" y="7130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
