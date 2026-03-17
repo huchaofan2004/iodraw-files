@@ -1751,6 +1751,11 @@
         <mxCell id="kZyRBMNX_0aLdauRKxvs-359" value="循环操作" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-1" y="7210" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="kZyRBMNX_0aLdauRKxvs-360">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="69" y="7500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kZyRBMNX_0aLdauRKxvs-360" value="循环结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-6" y="7340" width="150" height="60" as="geometry" />
         </mxCell>
