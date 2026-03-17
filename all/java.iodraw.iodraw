@@ -1803,7 +1803,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kZyRBMNX_0aLdauRKxvs-374" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;循环条件&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="4" y="7100" width="160" height="60" as="geometry" />
+          <mxGeometry x="740" y="7074.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-375" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="84" y="7100" as="targetPoint" />
+            <mxPoint x="84" y="7000" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
