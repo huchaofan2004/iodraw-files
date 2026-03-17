@@ -1874,14 +1874,19 @@
         <mxCell id="kZyRBMNX_0aLdauRKxvs-388" value="循环体(语句);&lt;div&gt;循环变量迭代;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="230" y="7750" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kZyRBMNX_0aLdauRKxvs-393" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZyRBMNX_0aLdauRKxvs-390" target="kZyRBMNX_0aLdauRKxvs-392">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-393" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="kZyRBMNX_0aLdauRKxvs-390" target="kZyRBMNX_0aLdauRKxvs-392">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="8020" />
+              <mxPoint x="315" y="8020" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kZyRBMNX_0aLdauRKxvs-390" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;循环条件判断&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="212.5" y="7910" width="205" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kZyRBMNX_0aLdauRKxvs-392" value="循环结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="245" y="8050" width="150" height="60" as="geometry" />
+          <mxGeometry x="240" y="8060" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
