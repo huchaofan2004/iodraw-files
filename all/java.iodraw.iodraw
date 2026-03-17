@@ -1848,6 +1848,9 @@
         <mxCell id="kZyRBMNX_0aLdauRKxvs-385" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;false&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="625" y="7090" width="90" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-389" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kZyRBMNX_0aLdauRKxvs-386" target="kZyRBMNX_0aLdauRKxvs-388">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kZyRBMNX_0aLdauRKxvs-386" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;循环变量初始化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="235" y="7610" width="160" height="40" as="geometry" />
         </mxCell>
@@ -1861,7 +1864,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kZyRBMNX_0aLdauRKxvs-388" value="循环体;&lt;div&gt;循环变量迭代;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="235" y="7790" width="170" height="60" as="geometry" />
+          <mxGeometry x="230" y="7750" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
