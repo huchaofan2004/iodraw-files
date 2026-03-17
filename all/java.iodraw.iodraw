@@ -1760,7 +1760,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kZyRBMNX_0aLdauRKxvs-360" value="循环结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-6" y="7340" width="150" height="60" as="geometry" />
+          <mxGeometry y="7340" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kZyRBMNX_0aLdauRKxvs-361" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;true&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="54" y="7150" width="90" height="40" as="geometry" />
@@ -1771,7 +1771,7 @@
         <mxCell id="kZyRBMNX_0aLdauRKxvs-363" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;继续&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="7420" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kZyRBMNX_0aLdauRKxvs-370" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kZyRBMNX_0aLdauRKxvs-365" target="kZyRBMNX_0aLdauRKxvs-355">
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-370" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="kZyRBMNX_0aLdauRKxvs-365" target="kZyRBMNX_0aLdauRKxvs-355">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kZyRBMNX_0aLdauRKxvs-365" value="循环变量迭代" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
