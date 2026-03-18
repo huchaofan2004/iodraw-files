@@ -1910,8 +1910,8 @@
         <mxCell id="kZyRBMNX_0aLdauRKxvs-402" value="&lt;b&gt;诞生&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1060" y="7765" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kZyRBMNX_0aLdauRKxvs-405" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;true&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="652.5" y="7980" width="90" height="40" as="geometry" />
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-405" value="&lt;pre style=&quot;color: rgb(10, 10, 10); font-size: 14px; text-align: start; background-color: rgb(240, 242, 245);&quot;&gt;&lt;code&gt;double score = ...&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="7980" width="167.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
