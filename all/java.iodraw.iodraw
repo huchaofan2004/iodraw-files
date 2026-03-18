@@ -1911,7 +1911,7 @@
           <mxGeometry x="1060" y="7765" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kZyRBMNX_0aLdauRKxvs-405" value="&lt;pre style=&quot;color: rgb(10, 10, 10); text-align: start;&quot;&gt;&lt;code style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;double score = ...&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="652.5" y="7980" width="167.5" height="40" as="geometry" />
+          <mxGeometry x="760" y="7760" width="167.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
