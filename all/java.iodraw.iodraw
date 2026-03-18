@@ -1937,6 +1937,9 @@
         <mxCell id="kZyRBMNX_0aLdauRKxvs-412" value="&lt;b&gt;销毁&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="855" y="7855" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-415" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;false&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="7320" width="90" height="29" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
