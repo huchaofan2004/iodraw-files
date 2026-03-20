@@ -1968,11 +1968,13 @@
             <mxPoint x="-375.66999999999996" y="8500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kZyRBMNX_0aLdauRKxvs-421" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;strokeWidth=2;" edge="1" parent="1" source="kZyRBMNX_0aLdauRKxvs-422" target="kZyRBMNX_0aLdauRKxvs-426">
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-421" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-350.0033333333334" y="8830" as="sourcePoint" />
+            <mxPoint x="-350" y="8640" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-370" y="8900" />
-              <mxPoint x="-370" y="8900" />
+              <mxPoint x="-350.07" y="8930" />
+              <mxPoint x="-350.07" y="8930" />
             </Array>
           </mxGeometry>
         </mxCell>
