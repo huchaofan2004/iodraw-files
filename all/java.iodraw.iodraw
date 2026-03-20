@@ -1940,6 +1940,68 @@
         <mxCell id="kZyRBMNX_0aLdauRKxvs-415" value="&lt;font color=&quot;#007fff&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;如果判断条件为true，则执行break&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="7311" width="330" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-416" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;while循环变量初始化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="6960" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-417" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kZyRBMNX_0aLdauRKxvs-416">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="824.33" y="6870" as="sourcePoint" />
+            <mxPoint x="825.33" y="6960" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-418" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="kZyRBMNX_0aLdauRKxvs-419" target="kZyRBMNX_0aLdauRKxvs-426">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="7390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="7130" />
+              <mxPoint x="650" y="7440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-419" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;循环条件&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="745" y="7100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-420" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="824.33" y="7100" as="targetPoint" />
+            <mxPoint x="824.33" y="7000" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-421" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;strokeWidth=2;" edge="1" parent="1" source="kZyRBMNX_0aLdauRKxvs-422" target="kZyRBMNX_0aLdauRKxvs-426">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-422" value="循环体;&lt;div&gt;循环变量迭代;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#007fff&quot;&gt;if(条件){...break；&lt;span style=&quot;background-color: initial;&quot;&gt;}&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="750" y="7220" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-423" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="7160" as="sourcePoint" />
+            <mxPoint x="830" y="7220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-424" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;true&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="7160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-425" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kZyRBMNX_0aLdauRKxvs-422" target="kZyRBMNX_0aLdauRKxvs-419">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="7250" as="sourcePoint" />
+            <mxPoint x="1100" y="7130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="7250" />
+              <mxPoint x="1040" y="7130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-426" value="循环结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="755" y="7410" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-427" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 18px;&quot; face=&quot;Comic Sans MS&quot;&gt;false&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="7100" width="90" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="kZyRBMNX_0aLdauRKxvs-428" value="&lt;font color=&quot;#007fff&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;如果判断条件为true，则执行break&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="7321" width="330" height="29" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
