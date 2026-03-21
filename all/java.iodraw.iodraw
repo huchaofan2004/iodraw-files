@@ -2122,17 +2122,6 @@
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-24" value="把这个10复制一份" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5" y="6394" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h3HnbTgQRkRmKPsqJ4js-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="h3HnbTgQRkRmKPsqJ4js-26" target="h3HnbTgQRkRmKPsqJ4js-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-155" y="6479.75" as="sourcePoint" />
-            <mxPoint x="-55" y="6479.75" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-150" y="6490" />
-              <mxPoint x="-150" y="6480" />
-              <mxPoint x="-50" y="6480" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-26" value="&lt;div style=&quot;background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 21px; white-space: pre;&quot;&gt;&lt;span style=&quot;text-align: left; color: rgb(156, 220, 254);&quot;&gt;n2&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); text-align: left;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;text-align: left; color: rgb(212, 212, 212);&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); text-align: left;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;text-align: left; color: rgb(181, 206, 168);&quot;&gt;80&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204); text-align: left;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-215" y="6490" width="65" height="21" as="geometry" />
         </mxCell>
