@@ -2210,12 +2210,6 @@
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-51" value="arr1[0]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="225" y="6435" width="45" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="h3HnbTgQRkRmKPsqJ4js-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.15;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h3HnbTgQRkRmKPsqJ4js-51" target="h3HnbTgQRkRmKPsqJ4js-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h3HnbTgQRkRmKPsqJ4js-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h3HnbTgQRkRmKPsqJ4js-53" target="h3HnbTgQRkRmKPsqJ4js-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-53" value="arr1[1]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="6435" width="45" height="20" as="geometry" />
         </mxCell>
