@@ -2098,7 +2098,7 @@
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-12" value="n2 --&amp;gt; 10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-50" y="6430" width="75" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="h3HnbTgQRkRmKPsqJ4js-14" value="&lt;pre style=&quot;color: rgb(10, 10, 10); font-size: 14px; text-align: start; background-color: rgb(240, 242, 245);&quot;&gt;&lt;code&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&amp;lt;-- 独立的盒子&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="h3HnbTgQRkRmKPsqJ4js-14" value="&lt;pre style=&quot;color: rgb(10, 10, 10); font-size: 14px; text-align: start; background-color: rgb(240, 242, 245);&quot;&gt;&lt;code&gt;&lt;font style=&quot;&quot; face=&quot;Comic Sans MS&quot;&gt;&amp;lt;-- 独立的盒子&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="6410" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
