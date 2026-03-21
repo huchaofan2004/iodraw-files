@@ -2078,7 +2078,10 @@
           <mxGeometry x="1110" y="5490" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-5" value="JVM的内存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="990" y="5580" width="620" height="265" as="geometry" />
+          <mxGeometry x="931" y="5579.75" width="620" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="h3HnbTgQRkRmKPsqJ4js-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="5590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
