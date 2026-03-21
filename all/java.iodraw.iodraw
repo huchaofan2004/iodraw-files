@@ -2251,6 +2251,9 @@
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-70" value="&lt;div style=&quot;background-color: rgb(31, 31, 31); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 21px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;arr2&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204);&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color: rgb(181, 206, 168);&quot;&gt;0&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204);&quot;&gt;] &lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(204, 204, 204);&quot;&gt; &lt;/span&gt;&lt;font color=&quot;#b5cea8&quot;&gt;10&lt;/font&gt;&lt;span style=&quot;color: rgb(204, 204, 204);&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-251.25" y="6720" width="111.25" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="h3HnbTgQRkRmKPsqJ4js-72" value="&lt;font color=&quot;#ff3333&quot;&gt;arr1[0]&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="6445" width="45" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
