@@ -2099,7 +2099,10 @@
           <mxGeometry x="-50" y="6430" width="75" height="24" as="geometry" />
         </mxCell>
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-15" value="&amp;lt;— 独立的盒子" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="35" y="6370" width="60" height="30" as="geometry" />
+          <mxGeometry x="25" y="6367" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h3HnbTgQRkRmKPsqJ4js-16" value="&lt;font color=&quot;#ff3333&quot;&gt;&amp;lt;— 另一个独立的盒子&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="6427" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
