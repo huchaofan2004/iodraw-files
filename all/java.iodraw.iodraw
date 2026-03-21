@@ -2122,13 +2122,13 @@
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-24" value="把这个10复制一份" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5" y="6394" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h3HnbTgQRkRmKPsqJ4js-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="h3HnbTgQRkRmKPsqJ4js-26" target="h3HnbTgQRkRmKPsqJ4js-12">
+        <mxCell id="h3HnbTgQRkRmKPsqJ4js-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="h3HnbTgQRkRmKPsqJ4js-26" target="h3HnbTgQRkRmKPsqJ4js-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-155" y="6479.75" as="sourcePoint" />
             <mxPoint x="-55" y="6479.75" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-70" y="6501" />
-              <mxPoint x="-70" y="6480" />
+              <mxPoint x="-150" y="6490" />
+              <mxPoint x="-150" y="6480" />
               <mxPoint x="-50" y="6480" />
             </Array>
           </mxGeometry>
