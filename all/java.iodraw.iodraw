@@ -2083,7 +2083,7 @@
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;栈&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="890" y="5620" width="140" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="h3HnbTgQRkRmKPsqJ4js-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h3HnbTgQRkRmKPsqJ4js-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1070" y="5620" width="490" height="120" as="geometry" />
         </mxCell>
       </root>
