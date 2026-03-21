@@ -2206,10 +2206,7 @@
           <mxGeometry x="287.5" y="6435" width="45" height="20" as="geometry" />
         </mxCell>
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-54" value="&lt;font color=&quot;#ff3333&quot;&gt;arr1[0]&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="6434" width="45" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="h3HnbTgQRkRmKPsqJ4js-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.85;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="h3HnbTgQRkRmKPsqJ4js-54" target="h3HnbTgQRkRmKPsqJ4js-47">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="352.5" y="6434" width="45" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
