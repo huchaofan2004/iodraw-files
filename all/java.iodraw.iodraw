@@ -2162,6 +2162,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="h3HnbTgQRkRmKPsqJ4js-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h3HnbTgQRkRmKPsqJ4js-40" target="h3HnbTgQRkRmKPsqJ4js-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-40" value="0x001" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="6590" width="40" height="20" as="geometry" />
         </mxCell>
@@ -2230,6 +2233,9 @@
         </mxCell>
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-65" value="0x001" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-15.5" y="6662" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h3HnbTgQRkRmKPsqJ4js-67" value="把这个10复制一份" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15" y="6404" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
