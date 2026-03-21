@@ -2081,10 +2081,10 @@
           <mxGeometry x="870" y="5580" width="710" height="440" as="geometry" />
         </mxCell>
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="5620" width="140" height="200" as="geometry" />
+          <mxGeometry x="890" y="5620" width="140" height="380" as="geometry" />
         </mxCell>
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="5620" width="390" height="110" as="geometry" />
+          <mxGeometry x="1070" y="5620" width="390" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
