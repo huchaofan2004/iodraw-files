@@ -2095,9 +2095,6 @@
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-11" value="n1 --&amp;gt; 10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-50" y="6370" width="75" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="h3HnbTgQRkRmKPsqJ4js-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h3HnbTgQRkRmKPsqJ4js-12" target="h3HnbTgQRkRmKPsqJ4js-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-12" value="n2 --&amp;gt; 10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-50" y="6430" width="75" height="24" as="geometry" />
         </mxCell>
@@ -2141,7 +2138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-34" value="把这个10变成80" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="6454" width="105" height="30" as="geometry" />
+          <mxGeometry x="20" y="6470" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
