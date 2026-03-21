@@ -2098,11 +2098,8 @@
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-12" value="n2 --&amp;gt; 10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-50" y="6430" width="75" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="h3HnbTgQRkRmKPsqJ4js-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="6390" as="sourcePoint" />
-            <mxPoint x="10.47" y="6430" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="h3HnbTgQRkRmKPsqJ4js-14" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="6400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
