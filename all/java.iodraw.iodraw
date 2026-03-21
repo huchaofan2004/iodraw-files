@@ -2148,8 +2148,8 @@
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-37" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Menlo, Monaco, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 21px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;int&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;[] &lt;/span&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;arr1&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; { &lt;/span&gt;&lt;span style=&quot;color: #b5cea8;&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #b5cea8;&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #b5cea8;&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; };&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="6580" width="212.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h3HnbTgQRkRmKPsqJ4js-39" value="arr1 --&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="6586" width="75" height="24" as="geometry" />
+        <mxCell id="h3HnbTgQRkRmKPsqJ4js-39" value="arr1 --&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="6586" width="110" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
