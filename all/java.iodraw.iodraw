@@ -365,7 +365,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zPGLKSO-FeiRT7DCMc3i" name="第 3 页">
-    <mxGraphModel dx="1511" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2075,7 +2075,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;值传递(值拷贝) 和 引用传递(地址拷贝)的区别&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="138.5" y="6160" width="418.5" height="60" as="geometry" />
+          <mxGeometry x="131.5" y="6160" width="418.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-5" value="JVM的内存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="-100" y="6250" width="800" height="670" as="geometry" />
