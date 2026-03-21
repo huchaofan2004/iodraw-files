@@ -2131,6 +2131,12 @@
         <mxCell id="h3HnbTgQRkRmKPsqJ4js-29" value="当你把n2变成80的时候,会通过n2找到它的存储空间把10变成80" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-217.5" y="6512.5" width="195" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="h3HnbTgQRkRmKPsqJ4js-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="6460" as="sourcePoint" />
+            <mxPoint x="-90" y="6410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
