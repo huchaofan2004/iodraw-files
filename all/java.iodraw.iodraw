@@ -2505,10 +2505,13 @@
         <mxCell id="Qs0tlM2PsXrScFqtMZZj-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;第一轮排序：目标 -&amp;gt; 把最大数放在最后&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1220" y="7430" width="335" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Qs0tlM2PsXrScFqtMZZj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qs0tlM2PsXrScFqtMZZj-4" target="Qs0tlM2PsXrScFqtMZZj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qs0tlM2PsXrScFqtMZZj-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;第1次比较：&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 18px;&quot;&gt;[24, 69, 80, 57, 13]&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1220" y="7520" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qs0tlM2PsXrScFqtMZZj-7" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="Qs0tlM2PsXrScFqtMZZj-7" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.437;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Qs0tlM2PsXrScFqtMZZj-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1310" y="7470" as="sourcePoint" />
             <mxPoint x="1345" y="7520" as="targetPoint" />
