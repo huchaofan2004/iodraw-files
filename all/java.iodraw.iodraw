@@ -2506,7 +2506,7 @@
           <mxGeometry x="1220" y="7430" width="335" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qs0tlM2PsXrScFqtMZZj-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;第一轮排序：目标 -&amp;gt; 把最大数放在最后&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="7440" width="335" height="30" as="geometry" />
+          <mxGeometry x="1220" y="7490" width="335" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
