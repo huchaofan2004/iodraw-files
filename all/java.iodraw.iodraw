@@ -2506,7 +2506,13 @@
           <mxGeometry x="1220" y="7430" width="335" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qs0tlM2PsXrScFqtMZZj-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;第1次比较：&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 18px;&quot;&gt;[24, 69, 80, 57, 13]&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="7490" width="255" height="30" as="geometry" />
+          <mxGeometry x="1220" y="7490" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qs0tlM2PsXrScFqtMZZj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1430" y="7550" as="sourcePoint" />
+            <mxPoint x="1430" y="7610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
