@@ -3753,8 +3753,14 @@
         <mxCell id="JbJ1EmeKpfPlYNbZuTvC-1" value="包的本质" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="485" y="16220" width="460" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="JbJ1EmeKpfPlYNbZuTvC-2" value="文件夹" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
-          <mxGeometry x="658.5" y="16270" width="120" height="60" as="geometry" />
+        <mxCell id="JbJ1EmeKpfPlYNbZuTvC-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;文件夹aaa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="658.5" y="16270" width="211.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JbJ1EmeKpfPlYNbZuTvC-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="346.5" y="16350" as="sourcePoint" />
+            <mxPoint x="347" y="16390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
