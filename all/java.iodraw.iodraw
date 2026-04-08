@@ -3750,8 +3750,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbJ1EmeKpfPlYNbZuTvC-1" value="变量的基本原理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+        <mxCell id="JbJ1EmeKpfPlYNbZuTvC-1" value="包的本质" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="485" y="16220" width="460" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="JbJ1EmeKpfPlYNbZuTvC-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="16390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
