@@ -3952,10 +3952,10 @@
           <mxGeometry x="53.5" y="17090" width="183" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ndg9ED9tYUOFL2e1_Tl--2" value="C类&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;属性&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;方法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="359.99999999999994" y="17020" width="183" height="80" as="geometry" />
+          <mxGeometry x="346.99999999999994" y="17090" width="183" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ndg9ED9tYUOFL2e1_Tl--3" value="A类&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;共有的属性&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;共有的方法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="201.68" y="17200" width="183" height="80" as="geometry" />
+          <mxGeometry x="195" y="16990" width="183" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
