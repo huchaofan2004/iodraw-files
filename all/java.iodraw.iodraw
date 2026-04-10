@@ -3949,10 +3949,10 @@
           <mxGeometry x="177.5" y="16891" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LLyQNvDtAQZ_Z9CubS6G-2" value="b类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="200" y="17020" width="180" height="60" as="geometry" />
+          <mxGeometry x="87" y="17020" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LLyQNvDtAQZ_Z9CubS6G-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="16900" width="120" height="60" as="geometry" />
+        <mxCell id="Ndg9ED9tYUOFL2e1_Tl--1" value="b类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370.32" y="17020" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
