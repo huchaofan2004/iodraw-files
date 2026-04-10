@@ -3962,7 +3962,7 @@
         <mxCell id="Ndg9ED9tYUOFL2e1_Tl--2" value="C类&amp;nbsp;[子类、派生类]&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;特有属性&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;特有方法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="350.49999999999994" y="17150" width="183" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ndg9ED9tYUOFL2e1_Tl--3" value="A类 [父类、基类]&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;共有的属性&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;共有的方法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad7ac;strokeColor=#b46504;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="Ndg9ED9tYUOFL2e1_Tl--3" value="A类 [父类、基类]&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;共有的属性&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;共有的方法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d0cee2;strokeColor=#56517e;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="195" y="16990" width="183" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ndg9ED9tYUOFL2e1_Tl--7" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;extends&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.683;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fff2cc;strokeColor=#E0BF5A;strokeWidth=2;fontColor=#FF3333;" edge="1" parent="1" source="Ndg9ED9tYUOFL2e1_Tl--2" target="Ndg9ED9tYUOFL2e1_Tl--3">
@@ -3972,6 +3972,15 @@
               <mxPoint x="320" y="17110" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ndg9ED9tYUOFL2e1_Tl--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#fad7ac;strokeColor=#b46504;" edge="1" parent="1" source="Ndg9ED9tYUOFL2e1_Tl--9" target="LLyQNvDtAQZ_Z9CubS6G-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ndg9ED9tYUOFL2e1_Tl--9" value="D类 [子类、派生类]&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;特有属性&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;特有方法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad9d5;strokeColor=#ae4132;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-66.5" y="17330" width="183" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ndg9ED9tYUOFL2e1_Tl--10" value="E类 [子类、派生类]&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;特有属性&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;特有方法&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fad9d5;strokeColor=#ae4132;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="17330" width="183" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
