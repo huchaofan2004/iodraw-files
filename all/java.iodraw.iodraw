@@ -4167,11 +4167,14 @@
         <mxCell id="Ndg9ED9tYUOFL2e1_Tl--62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;name：0x22&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="724.18" y="18480" width="95.82" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ndg9ED9tYUOFL2e1_Tl--63" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;hobby：0x33&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Ndg9ED9tYUOFL2e1_Tl--63" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="723.3599999999999" y="18520" width="95.82" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ndg9ED9tYUOFL2e1_Tl--64" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;0x22 : 大头爷爷&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="697.5" y="18720.82" width="95.82" height="40" as="geometry" />
+          <mxGeometry x="697.5" y="18717.76" width="102.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ndg9ED9tYUOFL2e1_Tl--65" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;0x33 : 旅游&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="697.5" y="18757.76" width="102.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
